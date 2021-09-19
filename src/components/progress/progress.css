@@ -1,0 +1,13 @@
+.progress{
+    margin-left: 60%;
+    /* position: relative;
+    top: -30%; */
+    transform: translateY(-80%);
+    background: none;
+}
+
+.saly{
+    width: 80%;
+    margin-top: 50%;
+}
+

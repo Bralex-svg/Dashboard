@@ -1,0 +1,24 @@
+.chart{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 2px 6px 14px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 2px 6px 14px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 6px 14px 0px rgba(0,0,0,0.75);
+  width: 60%;
+      margin-bottom: 20%;
+    transform: translateX(-15%);
+}
+
+
+.chartContainer{
+display: flex;
+width: 60%;
+
+justify-content: space-between;
+ 
+}
+.chartTitle{
+
+ 
+    font-size: 0.7rem;
+}
